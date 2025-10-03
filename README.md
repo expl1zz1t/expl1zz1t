@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @expl1zz1t
+# 👋 Hi, I’m expl1zz1t
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Node.js
 
